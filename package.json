@@ -1,0 +1,23 @@
+{
+  "name": "test_github",
+  "version": "1.0.0",
+  "description": "Test github for funktioner",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "fullTest": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chri11g6/Test_Github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chri11g6/Test_Github/issues"
+  },
+  "homepage": "https://github.com/chri11g6/Test_Github#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
